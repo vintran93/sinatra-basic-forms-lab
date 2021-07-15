@@ -1,7 +1,5 @@
 # Sinatra Basic Forms Lab
 
-![puppies](https://s3.amazonaws.com/learn-verified/puppies.gif)
-
 Your local pet adoption store has asked you to build their new website. First
 and foremost, the store needs a form for their staff to add puppies that are
 available for adoption. Good thing you love puppies _and_ coding!
